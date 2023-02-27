@@ -1,0 +1,102 @@
+{
+  "SerializedFilePath": "c:\\Homeware\\BlazorFullStack\\ShopOnlineSolution\\ShopOnline.Web\\obj\\Debug\\net6.0\\project.razor.json",
+  "FilePath": "c:\\Homeware\\BlazorFullStack\\ShopOnlineSolution\\ShopOnline.Web\\ShopOnline.Web.csproj",
+  "Configuration": {
+    "ConfigurationName": "Default",
+    "LanguageVersion": "6.0",
+    "Extensions": []
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 1000
+  },
+  "RootNamespace": "ShopOnline.Web",
+  "Documents": [
+    {
+      "FilePath": "c:\\Homeware\\BlazorFullStack\\ShopOnlineSolution\\ShopOnline.Web\\Pages\\DisplayError.razor",
+      "TargetPath": "Pages\\DisplayError.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Homeware\\BlazorFullStack\\ShopOnlineSolution\\ShopOnline.Web\\Shared\\NavMenu.razor",
+      "TargetPath": "Shared\\NavMenu.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Homeware\\BlazorFullStack\\ShopOnlineSolution\\ShopOnline.Web\\Pages\\Counter.razor",
+      "TargetPath": "Pages\\Counter.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Homeware\\BlazorFullStack\\ShopOnlineSolution\\ShopOnline.Web\\Pages\\DisplayProducts.razor",
+      "TargetPath": "Pages\\DisplayProducts.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Homeware\\BlazorFullStack\\ShopOnlineSolution\\ShopOnline.Web\\Pages\\Checkout.razor",
+      "TargetPath": "Pages\\Checkout.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Homeware\\BlazorFullStack\\ShopOnlineSolution\\ShopOnline.Web\\_Imports.razor",
+      "TargetPath": "_Imports.razor",
+      "FileKind": "componentImport"
+    },
+    {
+      "FilePath": "c:\\Homeware\\BlazorFullStack\\ShopOnlineSolution\\ShopOnline.Web\\Pages\\Products.razor",
+      "TargetPath": "Pages\\Products.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Homeware\\BlazorFullStack\\ShopOnlineSolution\\ShopOnline.Web\\Pages\\ProductsByCategory.razor",
+      "TargetPath": "Pages\\ProductsByCategory.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Homeware\\BlazorFullStack\\ShopOnlineSolution\\ShopOnline.Web\\App.razor",
+      "TargetPath": "App.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Homeware\\BlazorFullStack\\ShopOnlineSolution\\ShopOnline.Web\\Shared\\SurveyPrompt.razor",
+      "TargetPath": "Shared\\SurveyPrompt.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Homeware\\BlazorFullStack\\ShopOnlineSolution\\ShopOnline.Web\\Pages\\DisplaySpinner.razor",
+      "TargetPath": "Pages\\DisplaySpinner.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Homeware\\BlazorFullStack\\ShopOnlineSolution\\ShopOnline.Web\\Pages\\ShoppingCart.razor",
+      "TargetPath": "Pages\\ShoppingCart.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Homeware\\BlazorFullStack\\ShopOnlineSolution\\ShopOnline.Web\\Shared\\MainLayout.razor",
+      "TargetPath": "Shared\\MainLayout.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Homeware\\BlazorFullStack\\ShopOnlineSolution\\ShopOnline.Web\\Pages\\FetchData.razor",
+      "TargetPath": "Pages\\FetchData.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Homeware\\BlazorFullStack\\ShopOnlineSolution\\ShopOnline.Web\\Shared\\CartMenu.razor",
+      "TargetPath": "Shared\\CartMenu.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Homeware\\BlazorFullStack\\ShopOnlineSolution\\ShopOnline.Web\\Shared\\ProductCategoriesNavMenu.razor",
+      "TargetPath": "Shared\\ProductCategoriesNavMenu.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Homeware\\BlazorFullStack\\ShopOnlineSolution\\ShopOnline.Web\\Pages\\ProductDetails.razor",
+      "TargetPath": "Pages\\ProductDetails.razor",
+      "FileKind": "component"
+    }
+  ],
+  "SerializationFormat": "0.3"
+}
